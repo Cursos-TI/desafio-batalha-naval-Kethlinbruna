@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <stdio.h>
-
 // Desafio Batalha Naval - MateCheck
 // Nível Novato - Posicionamento dos Navios
 
